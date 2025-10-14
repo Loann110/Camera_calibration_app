@@ -30,3 +30,5 @@ It works **offline** and has a simple GUI
 ## License
 **MIT**.  
 Includes OpenCV (BSD-3-Clause).
+
+<img width="1915" height="1018" alt="image" src="https://github.com/user-attachments/assets/f8de6ed1-6fd5-4033-adfb-fa396ee75a4f" />
