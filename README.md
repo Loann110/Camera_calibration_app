@@ -11,7 +11,7 @@ It works **offline** and has a simple GUI
 - Exports a text **report** and **annotated images**.
 
 ## How to use
-1. Run `CameraCalibrator.exe`.
+1. Run `Camera_calibration.exe`.
 2. Click **Browse…** and pick the folder with your images.
 3. Enter **inner corners** (cols × rows) and **square size** (mm).  
 4. Click **Calibrate**.
